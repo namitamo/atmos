@@ -1,6 +1,6 @@
 ---
-title: Siteleaf - A friendly CMS for your static site
-header_title: Real time air quality monitors
+title: Atmos
+header_title: Real-time Air Quality Monitors
 subtitle: |-
   Siteleaf is a content management system designed for a better web.
 
