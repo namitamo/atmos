@@ -9,7 +9,7 @@ color: "#fabb2f"
 button:
   title: Get started
   url: https://manage.siteleaf.com/signup
-extended_header: true
+extended_header: false
 features:
 - title: 
   handle: intro
