@@ -69,8 +69,8 @@ sass:
   style: compressed
 per_page: 12
 date_format: "%b %d, %Y"
-google_analytics: UA-1666437-33
+google_analytics: UA-1666437
 twitter:
-  username: siteleaf
+  username: urbansciencesin
 logo: "/assets/logo.svg"
 future: true
