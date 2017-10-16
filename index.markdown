@@ -27,6 +27,9 @@ features:
     body: Access by [API](http://learn.siteleaf.com/api/) or generate static sites
       to S3, GitHub, FTP
     image: "/uploads/home__intro--owl.svg"
+  - title: 
+    body: 
+    image: 
 - title: Content management for the whole team
   handle: manage
   width: wide
