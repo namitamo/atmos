@@ -7,7 +7,7 @@ subtitle: Atmos is India’s first affordable air quality monitor that provides 
   and government make better air quality decisions.
 color: yellow
 button:
-  title: Get started
+  title: Buy
   url: https://manage.siteleaf.com/signup
 extended_header: false
 features:
@@ -17,13 +17,13 @@ features:
   width: wide
   button: true
   subsections:
-  - title: Develop with existing tools
+  - title: Affordable Device
     body: Code offline with Jekyll, sync with GitHub
     image: "/uploads/home__intro--raccoon.svg"
-  - title: Edit in the cloud
+  - title: Free connectivity
     body: Easy for non-technical clients, writers, and producers
     image: "/uploads/home__intro--fox.svg"
-  - title: Free your content
+  - title: Easy to install
     body: Access by [API](http://learn.siteleaf.com/api/) or generate static sites
       to S3, GitHub, FTP
     image: "/uploads/home__intro--owl.svg"
