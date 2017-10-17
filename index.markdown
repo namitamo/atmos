@@ -1,11 +1,9 @@
 ---
 title: Atmos
-header_title: Real-time Air Quality Monitors
-subtitle: Atmos is India’s first affordable air quality monitor that provides real
-  time measurements with an free inbuilt data connectivity. Our monitors are precise
-  and scientifically calibrated to help families, air quality professionals, institutions
-  and government make better air quality decisions.
-color: yellow
+header_title: Know the Air you Breathe
+subtitle: 'Atmos is India’s first affordable air quality monitor that provides real
+  time measurements with an free inbuilt data connectivity. '
+color: white
 button:
   title: Buy
   url: https://manage.siteleaf.com/signup
