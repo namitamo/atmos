@@ -3,7 +3,7 @@ title: Atmos
 header_title: Know the Air you Breathe
 subtitle: 'Atmos is India’s first affordable air quality monitor that provides real
   time measurements with an free inbuilt data connectivity. '
-color: white
+color: blue
 button:
   title: Buy
   url: https://manage.siteleaf.com/signup
