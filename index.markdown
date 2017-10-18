@@ -28,17 +28,17 @@ features:
   - title: 
     body: 
     image: 
-- title: Content management for the whole team
+- title: Atmos Partners & Projects
   handle: manage
   width: wide
   color: "#0000ff"
   subsections:
-  - title: Collaborate
+  - title: European Climate Foundation
     handle: collaborate
     body: Invite your client or team to create and edit content. Set them as Admin,
       Publisher, or Writer.
     image: "/uploads/home__manage--collaborate.jpg"
-  - title: Preview before you publish
+  - title: Duke University
     handle: preview
     body: Preview changes before they go live. Then publish with one click whenever
       you’re ready.
