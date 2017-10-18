@@ -2,7 +2,7 @@
 title: Atmos
 header_title: Know the Air you Breathe
 subtitle: 'Atmos is India’s first affordable air quality monitor that provides real
-  time measurements with an free inbuilt data connectivity. '
+  time measurements with free inbuilt data connectivity. '
 color: blue
 button:
   title: Buy
