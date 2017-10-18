@@ -260,11 +260,11 @@ h6 {
   }
 }
 .header__link--button {
-  background: $color--leaf;
+  background: $color--yellow;
   color: $color--white;
   margin-left: 0.5em;
   &:hover {
-    background: darken($color--leaf, $darken--button);
+    background: darken($color--yellow, $darken--button);
   }
   @include max-width($max-width--sm) {
     background: inherit;
