@@ -28,7 +28,7 @@ features:
   - title: 
     body: 
     image: 
-- title: Atmos Partners & Projects
+- title: Partners & Projects
   handle: manage
   width: wide
   color: "#0000ff"
@@ -43,16 +43,11 @@ features:
     body: Preview changes before they go live. Then publish with one click whenever
       you’re ready.
     image: "/uploads/home__manage--preview.jpg"
-  - title: Smart text editor
+  - title: Shakti Foundation
     handle: edit
     body: Choose between a visual editor or just plain Markdown. Drag and drop images
       or even entire text files.
     image: "/uploads/home__manage--edit.jpg"
-  - title: Powerful content
-    handle: customize
-    body: Customize your site with document collections, advanced metadata, and custom
-      permalinks.
-    image: "/uploads/home__manage--customize.jpg"
 - title: Develop with tools you already love
   handle: develop
   background: lightest-gray
