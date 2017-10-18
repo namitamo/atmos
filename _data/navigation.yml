@@ -1,14 +1,12 @@
 header:
-- title: Blog
-  url: /blog/
-- title: Gallery
-  url: /gallery/
-- title: Plans
-  url: /plans/
-- title: Learn
-  url: http://learn.siteleaf.com
-- title: Log in
-  url: https://manage.siteleaf.com
+- title: Home
+  url: /
+- title: Dashboard
+  url: http://breathe.indiaspend.org/
+- title: Contact
+  url: /contact/
+- title: Buy
+  url: /buy/
 footer:
 - title: Features
   url: /features/
